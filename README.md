@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! My name is Abhinit. 👋
 
-<!--
-**abhinit75/abhinit75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:
+😄 Pronouns: He/Him
+👩🏽‍💻 I am a Product Manager & Software Engineer
+🎓 I am studying Computer Science at the University of Waterloo (Graduation: May 2025)
 
-Here are some ideas to get you started:
+What I'm Up To:
+🌱 I’m currently learning full stack development with the MERN Stack & also exploring Mahcine learning with AWS
+👯 I’m looking to collaborate with other content creators
+⚡ Fun fact: I have started a succesfull softwar etraining and consultancy business - intellee.ca/ brainzaa.com. I also invest in the stock market on the side.
+GitHub Stats
+Github stats Top Languages Card
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to Reach Me
+📬 Email: reachout@abhinitpatil.com
+🕴 LinkedIn: https://www.linkedin.com/in/abhinit-patil/
