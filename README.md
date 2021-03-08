@@ -2,7 +2,7 @@
 
 About Me:
 😄 Pronouns: He/Him
-👩🏽‍💻 I am a Product Manager & Software Engineer
+👩🏽‍💻 I am a Product Manager & Software Engineer. 
 🎓 I am studying Computer Science at the University of Waterloo (Graduation: May 2025)
 
 What I'm Up To:
