@@ -7,11 +7,11 @@ About Me:
 
 What I'm Up To:
 
-🌱 I’m currently learning full stack development with the MERN Stack & also exploring Mahcine learning with AWS
+🌱 I’m currently learning full stack development with the MERN Stack & also exploring Machine learning with AWS
 
 👯 I’m looking to collaborate with other content creators
 
-⚡ Fun fact: I have started a succesfull software training and consultancy business - intellee.ca/ brainzaa.com. I also invest in the stock market on the side.
+⚡ Fun fact: I have started a succesfull software training and consultancy business - intellee.ca/ brainzaa.com. I also invest in the stock market and real estate on the side.
 
 How to Reach Me
 📬 Email: reachout@abhinitpatil.com
