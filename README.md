@@ -7,9 +7,9 @@ About Me:
 
 What I'm Up To:
 
-🌱 I’m currently learning full stack development with the MERN Stack & also exploring Machine learning with AWS
+🌱 I am a TPM Intern at UserVitals and currenly shipping out core features on the SAAS platform. I am currently learning Redwood JS, MERN and Machine Learning using AWS.
 
-👯 I’m looking to collaborate with other content creators
+👯 I’m looking to collaborate with other content creators, entrepreneurs and investors!
 
 ⚡ Fun fact: I have started a successfull software training and consultancy business - intellee.ca. I also invest in the stock market and real estate on the side.
 
