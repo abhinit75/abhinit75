@@ -7,7 +7,7 @@ About Me:
 
 What I'm Up To:
 
-🌱 I am a TPM Intern at UserVitals and currenly shipping out core features on the SAAS platform. I am currently learning Redwood JS, MERN and Machine Learning using AWS.
+🌱 I am a Software Engineering Intern @VTS - working in the PropTech sector.
 
 👯 I’m looking to collaborate with other content creators, entrepreneurs and investors!
 
