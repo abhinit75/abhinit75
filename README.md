@@ -7,7 +7,7 @@ About Me:
 
 What I'm Up To:
 
-🌱 I am a Software Engineering Intern @VTS - working in the PropTech sector.
+🌱 I am a Software Engineering Intern @CapitalOne - prev Software Engineer @VTS, Technical Product Manager @UserVitals
 
 👯 I’m looking to collaborate with other content creators, entrepreneurs and investors!
 
