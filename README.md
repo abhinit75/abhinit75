@@ -2,7 +2,7 @@
 
 About Me:
 😄 Pronouns: He/Him
-👩🏽‍💻 I am a Product Manager & Software Engineer. 
+👩🏽‍💻 I love to build stuff 
 🎓 I am studying Computer Science at the University of Waterloo (Graduation: May 2025)
 
 What I'm Up To:
@@ -11,8 +11,8 @@ What I'm Up To:
 
 👯 I’m looking to collaborate with other content creators, entrepreneurs and investors!
 
-⚡ Fun fact: I have started a successfull software training and consultancy business - intellee.ca. I also invest in the stock market and real estate on the side.
+⚡ Fun fact: I have started a successfull software training and consultancy business - intelleecollege.com. I also invest in the stock market and real estate on the side.
 
 How to Reach Me
-📬 Email: reachout@abhinitpatil.com
+📬 Email: abhineet0309@gmail.com
 🕴 LinkedIn: https://www.linkedin.com/in/abhinit-patil/
