@@ -5,7 +5,7 @@ About Me:
 👩🏽‍💻 I love to build stuff 
 🎓 I am studying Computer Science at the University of Waterloo (Graduation: May 2025)
 
-Industries worked in: Web 3.0, AI, Payements, Banking, Productivity
+Industries worked in: Web 3.0, AI, Payments, Banking, Productivity
 
 What I'm Up To:
 
