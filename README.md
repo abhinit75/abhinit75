@@ -1,13 +1,16 @@
 ### Hi there! My name is Abhinit. 👋
 
 About Me:
+
 😄 Pronouns: He/Him
+
 👩🏽‍💻 I love to build stuff 
+
 🎓 I am studying Computer Science at the University of Waterloo (Graduation: May 2025)
 
 Industries worked in: Web 3.0, AI, Payments, Banking, Productivity
 
-What I'm Up To:
+**What I'm Up To:**
 
 🧑‍🍳 I am building garner.so - connect any of your SAAS apps, search like you would in Google and prompt garner to get your job done.
 
