@@ -8,8 +8,9 @@ About Me:
 Industries worked in: Web 3.0, AI, Payments, Banking, Productivity
 
 What I'm Up To:
+🧑‍🍳 I am building garner.so - connect any of your SAAS apps, search like you would in Google and prompt garner to get your job done.
 
-🌱 I am a Software Engineering Intern @ Utopia Labs - prev Software Engineer @ Capital One, @ VTS, @ SmallCloud Technologies
+🌱 I am a APM Intern @ Coinbase - prev Software Engineer @ Magna.so, Utopia Labs, Capital One, VTS, SmallCloud Technologies
 
 👯 I’m looking to collaborate with other content creators, entrepreneurs and investors!
 
